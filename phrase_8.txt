@@ -1,0 +1,1 @@
+Deploying verifiable credentials via Base smart contracts.
