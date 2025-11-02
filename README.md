@@ -5,3 +5,4 @@
 - Forked for educational purposes — exploring Base protocol dev tooling. (commit 3/10)
 - Forked for educational purposes — exploring Base protocol dev tooling. (commit 4/10)
 - Forked for educational purposes — exploring Base protocol dev tooling. (commit 5/10)
+- Forked for educational purposes — exploring Base protocol dev tooling. (commit 6/10)
